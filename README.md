@@ -2,7 +2,7 @@
 
 **Build and Deploy a fully responsive Modern Full Stack E-commerce application with Payments functionality**. With Modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities, and most importantly the complete integration with Stripe so that you can cover REAL payments. This is the best e-commerce website project that you can currently find on YouTube!
 
-overview of the key features and components commonly found in an e-commerce app:
+This is an overview of the key features and components commonly found in an e-commerce app:
 - Advanced React Best Practices such as
     - Folder and file structure, hooks, and refs
 - Advanced State Management of the entire application using React Context API
